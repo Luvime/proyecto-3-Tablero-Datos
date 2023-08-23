@@ -17,7 +17,7 @@ html {
 }
 
 #header > h1 {
-    color:white;
+    color: white;
     font-size: 4rem;
 }
 
@@ -25,7 +25,7 @@ html {
     justify-content: center;
     text-align: center;
     padding: 2rem;
-    background-color: #01384C
+    background-color: #072e3c;
 }
 
 #selectform > form > select {
@@ -42,6 +42,11 @@ html {
     background-color: rgba(12, 102, 165);
 }
 
+#graphtitle {
+    padding: 1rem;
+    font-size: 2rem;
+    color: white;
+}
 
 #graphbox {
     padding: 5rem;

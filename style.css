@@ -12,12 +12,12 @@ html {
 
 #header {
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.889);
+    background-color: rgba(12, 102, 165);
     padding: 2rem;
 }
 
 #header > h1 {
-    color: rgb(2, 178, 253);
+    color:white;
     font-size: 4rem;
 }
 
@@ -25,7 +25,7 @@ html {
     justify-content: center;
     text-align: center;
     padding: 2rem;
-    background-color: #072e3c;
+    background-color: #01384C
 }
 
 #selectform > form > select {
@@ -39,14 +39,9 @@ html {
 #graphsection {
     text-align: center;
     padding: 1rem;
-    background-color: rgba(0, 0, 0, 0.889);
+    background-color: rgba(12, 102, 165);
 }
 
-#graphtitle {
-    padding: 1rem;
-    font-size: 2rem;
-    color: rgb(2, 178, 253);
-}
 
 #graphbox {
     padding: 5rem;
